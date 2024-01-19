@@ -12,3 +12,7 @@ I'm <b>Illian Yamandú</b>, a web developer from Brasil.
 - ⚙️ Vue
 - 👁️ CSS
 - 💽 PostgreSQL, MySQL, SQL
+
+## Comming soon...
+- 👨‍💻 Python, Rust
+- 👁️ SASS
