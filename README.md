@@ -8,11 +8,11 @@ I'm <b>Illian Yamandú</b>, a web developer from Brasil.
 - 👨‍💻 Working at [4Selet](https://4selet.com.br/)
   
 ## Skills
-- 👨‍💻 Laravel, JavaScript, PHP
+- 👨‍💻 Laravel, JavaScript, PHP, Rust
 - ⚙️ Vue
 - 👁️ CSS
 - 💽 PostgreSQL, MySQL, SQL
 
 ## Comming soon...
-- 👨‍💻 Python, Rust
+- 👨‍💻 Python
 - 👁️ SASS
