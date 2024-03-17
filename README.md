@@ -11,8 +11,7 @@ I'm <b>Illian Yamandú</b>, a web developer from Brasil.
 - 👨‍💻 Laravel, JavaScript, PHP, Rust
 - ⚙️ Vue
 - 👁️ CSS
-- 💽 PostgreSQL, MySQL, SQL
+- 💽 PostgreSQL, MySQL, SQL, Python
 
 ## Comming soon...
-- 👨‍💻 Python
 - 👁️ SASS
